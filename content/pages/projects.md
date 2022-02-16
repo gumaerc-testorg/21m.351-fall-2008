@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: cce552c0-c03b-6df3-f01b-8a6d57032ee9
 ---
@@ -36,7 +39,7 @@ RECORDINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Solo melody
 {{< tdclose >}}
 {{< tdopen >}}
@@ -71,7 +74,7 @@ Internet Archive ([MP3 ‑ 2.5 MB](http://www.archive.org/download/MIT21M.351
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Counterpoint for two melodic instruments
 {{< tdclose >}}
 {{< tdopen >}}
@@ -108,7 +111,7 @@ Internet Archive ([MP3 ‑ 2.1 MB](http://www.archive.org/download/MIT21M.351
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Solo percussion
 {{< tdclose >}}
 {{< tdopen >}}
