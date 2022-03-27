@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: cce552c0-c03b-6df3-f01b-8a6d57032ee9
 resourcetype: Document
 title: Duet for Clarinet and Bassoon
 uid: 2b72f875-0808-c79e-92ad-bf680b65c35d

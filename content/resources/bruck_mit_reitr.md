@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Listening
 parent_type: CourseSection
+parent_uid: b962dbc2-3265-9c25-25c6-d5d827d112dc
 resourcetype: Document
 title: "Br\xFCcke mit Reiter"
 uid: fb07b663-dcdf-c2b1-49fb-6d98263f2785

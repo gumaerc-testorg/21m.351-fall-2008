@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Listening
 parent_type: CourseSection
+parent_uid: b962dbc2-3265-9c25-25c6-d5d827d112dc
 resourcetype: Document
 title: Bridge Translation
 uid: 2648e4f3-b98a-c424-d44e-d5453594dbb6
