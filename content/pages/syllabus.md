@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, prerequisites, format, composition projects, texts, listening. and the schedule
+  of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -55,7 +58,7 @@ You may own one of these texts from your previous music studies at MIT. The rele
 Listening
 ---------
 
-We shall explore twentieth century and contemporary works in class, using scores and recordings. In addition, I ask that you immerse yourself in the music of our time on your own. As with language acquisition, immersion is a key to understanding and competence. Outside listening should include both recordings (with scores) and live concerts, with a weekly journal assignment as described in the [listening]({{< baseurl >}}/pages/listening) section.
+We shall explore twentieth century and contemporary works in class, using scores and recordings. In addition, I ask that you immerse yourself in the music of our time on your own. As with language acquisition, immersion is a key to understanding and competence. Outside listening should include both recordings (with scores) and live concerts, with a weekly journal assignment as described in the {{% resource_link b962dbc2-3265-9c25-25c6-d5d827d112dc "listening" %}} section.
 
 Summary Calendar
 ----------------
