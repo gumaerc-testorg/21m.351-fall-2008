@@ -6,6 +6,7 @@ file: /courses/21m-351-music-composition-fall-2008/dede78e1d007bcc5fa59b33df1770
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Drifting
 uid: dede78e1-d007-bcc5-fa59-b33df177090e
 ---
 Example of student work for the solo percussion composition assignment: Drifting by Benjamin Park.
-
