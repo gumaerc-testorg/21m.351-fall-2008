@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on listening assignments for the course,
+  compositions, recordings, scores, and supporting materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening
 uid: b962dbc2-3265-9c25-25c6-d5d827d112dc
 ---
@@ -96,11 +100,11 @@ Internet Archive ([MP3 - 5.2MB](http://www.archive.org/download/MIT21M.351F08/br
 {{< tdopen >}}
 
 
-Score ([PDF]({{< baseurl >}}/resources/bruck_mit_reitr)) (Courtesy of Stefan Hackenberg. Used with permission.)
+Score ({{% resource_link fb07b663-dcdf-c2b1-49fb-6d98263f2785 "PDF" %}}) (Courtesy of Stefan Hackenberg. Used with permission.)
 
 [Composer Web site](http://www.stefanhakenberg.com/prf/prf.html)
 
-Translations of German titles and text in the score ([PDF]({{< baseurl >}}/resources/bridge_translatn))
+Translations of German titles and text in the score ({{% resource_link 2648e4f3-b98a-c424-d44e-d5453594dbb6 "PDF" %}})
 
 
 {{< tdclose >}}

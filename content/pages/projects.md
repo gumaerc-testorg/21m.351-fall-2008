@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the composition projects of the
+  term along with examples of student compositions and recordings.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: cce552c0-c03b-6df3-f01b-8a6d57032ee9
 ---
@@ -36,11 +41,11 @@ RECORDINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Solo melody
 {{< tdclose >}}
 {{< tdopen >}}
-_The Last Leaf_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_lastleaf))
+_The Last Leaf_ by Benjamin Park ({{% resource_link 125e3340-935a-3796-7861-12daf1044f3c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -56,7 +61,7 @@ Internet Archive ([MP3 ‑ 1.7 MB](http://www.archive.org/download/MIT21M.3
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-_Life of a Butterfly_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinsn_butrfly))
+_Life of a Butterfly_ by Joy Perkinson ({{% resource_link 150c0792-b565-3397-ecab-6ea240136206 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -71,11 +76,11 @@ Internet Archive ([MP3 ‑ 2.5 MB](http://www.archive.org/download/MIT21M.351
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Counterpoint for two melodic instruments
 {{< tdclose >}}
 {{< tdopen >}}
-_Up to No Good_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_nogood))
+_Up to No Good_ by Benjamin Park ({{% resource_link 763ab196-6138-99a3-5904-a03f2b9f6650 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -92,7 +97,7 @@ Internet Archive ([MP3 ‑ 2 MB](http://www.archive.org/download/MIT21M.351F08
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-_Duet for Clarinet and Bassoon_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinson_duet))
+_Duet for Clarinet and Bassoon_ by Joy Perkinson ({{% resource_link 2b72f875-0808-c79e-92ad-bf680b65c35d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -108,11 +113,11 @@ Internet Archive ([MP3 ‑ 2.1 MB](http://www.archive.org/download/MIT21M.351
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Solo percussion
 {{< tdclose >}}
 {{< tdopen >}}
-_Drifting_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_drifting))
+_Drifting_ by Benjamin Park ({{% resource_link dede78e1-d007-bcc5-fa59-b33df177090e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -127,7 +132,7 @@ Internet Archive ([MP3 ‑ 2.9 MB](http://www.archive.org/download/MIT21M.351
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-_Limit One Per Cussion_ by Joy Perkinson (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/perkinson_perc))
+_Limit One Per Cussion_ by Joy Perkinson ({{% resource_link 72891418-f083-2e5c-5514-25170eb7daa0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
