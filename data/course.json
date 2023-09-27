@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2008",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -47,6 +48,7 @@
     "Projects with Examples",
     "Music"
   ],
-  "site_uid": "4cd5bd56-e188-48a2-ae70-f2c367e5f38e",
+  "site_uid": "08185c86-4e1a-4244-bd7c-190eefa2e304",
+  "site_short_id": "21m.351-fall-2008",
   "title": "Course Metadata"
 }
