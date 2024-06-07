@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work for the composition assignment on counterpoint
   for two melodic instruments: Duet for Clarinet and Bassoon by Joy Perkinson.'
 file: /courses/21m-351-music-composition-fall-2008/2b72f8750808c79e92adbf680b65c35d_perkinson_duet.pdf
+file_size: 127022
 file_type: application/pdf
 learning_resource_types:
 - Projects

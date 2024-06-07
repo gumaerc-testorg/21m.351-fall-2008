@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work for the solo melody composition assignment:
   The Last Leaf by Benjamin Park.'
 file: /courses/21m-351-music-composition-fall-2008/125e3340935a3796786112daf1044f3c_park_lastleaf.pdf
+file_size: 133672
 file_type: application/pdf
 learning_resource_types:
 - Projects
