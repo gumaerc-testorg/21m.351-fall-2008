@@ -2,6 +2,7 @@
 content_type: resource
 description: "Musical score to Br\xFCcke mit Reiter by Stefan Hakenberg."
 file: /courses/21m-351-music-composition-fall-2008/fb07b663dcdfc2b149fb6d98263f2785_bruck_mit_reitr.pdf
+file_size: 311868
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
