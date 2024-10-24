@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work for the solo percussion composition assignment:
   Limit One Per Cussion by Joy Perkinson.'
-file: /courses/21m-351-music-composition-fall-2008/72891418f0832e5c551425170eb7daa0_perkinson_perc.pdf
+file: /ol-ocw-studio-app/courses/21m-351-music-composition-fall-2008/72891418f0832e5c551425170eb7daa0_perkinson_perc.pdf
 file_size: 383240
 file_type: application/pdf
 learning_resource_types:
