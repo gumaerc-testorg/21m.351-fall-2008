@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work for the solo melody composition assignment:
   Life of a Butterfly by Joy Perkinson.'
-file: /ol-ocw-studio-app/courses/21m-351-music-composition-fall-2008/150c0792b5653397ecab6ea240136206_perkinsn_butrfly.pdf
+file: /courses/21m-351-music-composition-fall-2008/150c0792b5653397ecab6ea240136206_perkinsn_butrfly.pdf
 file_size: 136330
 file_type: application/pdf
 learning_resource_types:
