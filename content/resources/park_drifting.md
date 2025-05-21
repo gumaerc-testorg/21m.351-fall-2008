@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work for the solo percussion composition assignment:
   Drifting by Benjamin Park.'
-file: /ol-ocw-studio-app/courses/21m-351-music-composition-fall-2008/dede78e1d007bcc5fa59b33df177090e_park_drifting.pdf
+file: /courses/21m-351-music-composition-fall-2008/dede78e1d007bcc5fa59b33df177090e_park_drifting.pdf
 file_size: 160589
 file_type: application/pdf
 learning_resource_types:
