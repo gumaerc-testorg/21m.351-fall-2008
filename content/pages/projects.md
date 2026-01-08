@@ -36,13 +36,13 @@ Solo melody
 {{< tdclose >}}{{< tdopen >}}
 Anonymous MIT student, flute   
 Recorded by Adam Schwartz   
-Internet Archive ({{% resource_link "393640d2-9aee-41e9-bf86-d836613a4b79" "MP3 ‑ 1.7 MB" %}})
+Internet Archive ([MP3 ‑ 1.7 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-The_Last_Leaf.mp3))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 *Life of a Butterfly* by Joy Perkinson ({{% resource_link "150c0792-b565-3397-ecab-6ea240136206" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Anonymous MIT student, flute   
 Recorded by Adam Schwartz   
-Internet Archive ({{% resource_link "11600122-8270-4173-b4ec-1ddc45f1fb91" "MP3 ‑ 2.5 MB" %}})
+Internet Archive ([MP3 ‑ 2.5 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Butterfly.mp3))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Counterpoint for two melodic instruments
 {{< tdclose >}}{{< tdopen >}}
@@ -51,26 +51,26 @@ Counterpoint for two melodic instruments
 Claxton Everett, clarinet   
 Anonymous MIT student, bassoon   
 Recorded by Adam Schwartz   
-Internet Archive ({{% resource_link "ce88e2d4-b322-4dab-b2d3-a3797661a272" "MP3 ‑ 2 MB" %}})
+Internet Archive ([MP3 ‑ 2 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-Up_to_No_Good.mp3))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 *Duet for Clarinet and Bassoon* by Joy Perkinson ({{% resource_link "2b72f875-0808-c79e-92ad-bf680b65c35d" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Claxton Everett, clarinet   
 Anonymous MIT student, bassoon   
 Recorded by Adam Schwartz   
-Internet Archive ({{% resource_link "4c6304b5-8c61-49bd-a6e1-cc4f166b073c" "MP3 ‑ 2.1 MB" %}})
+Internet Archive ([MP3 ‑ 2.1 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Wind_Duo.mp3))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Solo percussion
 {{< tdclose >}}{{< tdopen >}}
 *Drifting* by Benjamin Park ({{% resource_link "dede78e1-d007-bcc5-fa59-b33df177090e" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Simone Ovsey, percussion   
-Internet Archive ({{% resource_link "c0409359-061e-4541-9f9c-0d58fb90ef54" "MP3 ‑ 2.9 MB" %}})
+Internet Archive ([MP3 ‑ 2.9 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-Percussion.mp3))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 *Limit One Per Cussion* by Joy Perkinson ({{% resource_link "72891418-f083-2e5c-5514-25170eb7daa0" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Simone Ovsey, percussion   
-Internet Archive ({{% resource_link "bba879e0-3851-4c12-b628-08b37a8db68e" "MP3 ‑ 3.4 MB" %}})
+Internet Archive ([MP3 ‑ 3.4 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Percussion.mp3))
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## {{< anchor "weekly_assignments" >}}{{< /anchor >}}Weekly Project Assignments

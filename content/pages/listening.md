@@ -25,7 +25,7 @@ Debussy, Claude. *Syrinx*, L. 219. (1913)
 {{< tdclose >}}{{< tdopen >}}
 *Small is Beautiful: Short Pieces for Solo Flute*. Manuela Wiesler, flute. BIS CD-869, 2000.
 {{< tdclose >}}{{< tdopen >}}
-Paris, France: Editions Jobert, 1954. \[{{% resource_link "ec7b3225-f09b-41d0-877a-4fe7872d3937" "View this score" %}} at IMSLP.\]
+Paris, France: Editions Jobert, 1954. \[[View this score](http://imslp.org/wiki/Syrinx_%28Debussy%2C_Claude%29) at IMSLP.\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Britten, Benjamin. "Narcissus." From *Six Metamorphoses after Ovid*, Op. 49. (1951)
 {{< tdclose >}}{{< tdopen >}}
@@ -38,7 +38,7 @@ Varèse, Edgard. *Density 21.5*. (1936)
 
 *Small is Beautiful: Short Pieces for Solo Flute*. Manuela Wiesler, flute. BIS CD-869, 2000.
 
-Alternate performance by John McMurtery ({{% resource_link "a07a4df4-99cf-4d95-98f0-399bd6ba4eb8" "MP3 - 4.7 MB" %}})
+Alternate performance by John McMurtery ([MP3 - 4.7 MB](http://www.lunanova.org/podcasts/density.mp3))
 
 {{< tdclose >}}{{< tdopen >}}
 New York, NY: G. Ricordi & Co., 1956.
@@ -50,18 +50,18 @@ Hakenberg, Stefan. *Brücke mit Reiter*. (2008 audio guide for exhibit at the F
 
 *Das Springende Pferd*. Oliver Klenk and Hans Ernst, clarinets. Horncastle Verlag, 2008. ISBN: 9783938822210. (Courtesy of Horncastle Verlag. Used with permission.)
 
-Internet Archive ({{% resource_link "1ef78f27-9357-4277-973f-5683f067b263" "MP3 - 5.2MB" %}})
+Internet Archive ([MP3 - 5.2MB](http://www.archive.org/download/MIT21M.351F08/brucke_mit_reiter.mp3))
 
 {{< tdclose >}}{{< tdopen >}}
 
 Score ({{% resource_link "fb07b663-dcdf-c2b1-49fb-6d98263f2785" "PDF" %}}) (Courtesy of Stefan Hackenberg. Used with permission.)
 
-{{% resource_link "6d3a5e01-ddaf-4aa9-bee2-7fd30798677a" "Composer Web site" %}}
+[Composer Web site](http://www.stefanhakenberg.com/prf/prf.html)
 
 Translations of German titles and text in the score ({{% resource_link "2648e4f3-b98a-c424-d44e-d5453594dbb6" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**Songs (guest instructor:** {{% resource_link "476e432e-39b8-4db9-9495-8035b26bc35f" "**James Matheson**" %}}**)**
+**Songs (guest instructor:** [**James Matheson**](http://www.jamesmatheson.com/)**)**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Harbison, John. "Mirabai Songs." (1982 - original version with piano accompaniment)
 {{< tdclose >}}{{< tdopen >}}
@@ -73,7 +73,7 @@ Salonen, Esa-Pekka. "Five Images After Sappho." (1999)
 {{< tdclose >}}{{< tdopen >}}
 *LA Variations*. Dawn Upshaw, soprano; London Sinfonietta. Sony, 2001.
 {{< tdclose >}}{{< tdopen >}}
-\[Composer notes\](http://Use: {{% resource_link "21649555-dbce-4653-9dec-5854d60a83ad" "https://web.archive.org/web/20151009020355/https://www.esapekkasalonen.com/compositions/five-images-after-sappho" %}})
+\[Composer notes\](http://Use: [https://web.archive.org/web/20151009020355/https://www.esapekkasalonen.com/compositions/five-images-after-sappho](https://web.archive.org/web/20151009020355/https://www.esapekkasalonen.com/compositions/five-images-after-sappho))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Schoenberg, Arnold. "The Book of the Hanging Gardens" Op. 15. (1908-1909)
 {{< tdclose >}}{{< tdopen >}}
@@ -91,7 +91,7 @@ Schubert, Franz. "Der Doppelgänger." No. 13 in *Schwanengesang*, D. 957 (1829)
 {{< tdclose >}}{{< tdopen >}}
 *Schubert: Die schöne Müllerin; Schwanengesang; Winterreise*. Olaf Bär, baritone; Geoffrey Parsons, piano. EMI Classics, 2007.
 {{< tdclose >}}{{< tdopen >}}
-*Schwanengesang*, D.957. \[View this score at {{% resource_link "90ea3195-4992-4bbc-a3e8-1707fbf2c5ba" "IMSLP" %}}.\]
+*Schwanengesang*, D.957. \[View this score at [IMSLP](http://imslp.org/wiki/Schwanengesang,_D.957_(Schubert,_Franz)).\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Kurtag, Gyorgy. "Kafka Fragments."
 {{< tdclose >}}{{< tdopen >}}
@@ -109,7 +109,7 @@ Van Nuys, CA: New Music West, 1995.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Stockhausen, Karlheinz. *Zyklus, nr. 9 (for solo percussion)*. (1959)
 {{< tdclose >}}{{< tdopen >}}
-*Remedy*. {{% resource_link "147c3724-b5e8-4312-9af9-839b62d81b5b" "Morris Palter" %}}, percussion. Centuar CRC 2742, 2006.
+*Remedy*. [Morris Palter](https://www.allmusic.com/album/remedy-mw0001415518), percussion. Centuar CRC 2742, 2006.
 {{< tdclose >}}{{< tdopen >}}
 London, UK: Universal Edition, 1961.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -144,12 +144,12 @@ To help you organize your developing familiarity with twentieth century music, I
 
 ### Recordings and Scores
 
-For an international perspective, check out the BBC Radio 3 Web site '{{% resource_link "80ec6aec-079c-4078-9707-3823129ae3b9" "Hear and Now" %}}.' Concerts of contemporary music are broadcast every Saturday night (UK time) and remain on line for a week.
+For an international perspective, check out the BBC Radio 3 Web site '[Hear and Now](http://www.bbc.co.uk/radio3/hearandnow/).' Concerts of contemporary music are broadcast every Saturday night (UK time) and remain on line for a week.
 
-MIT Libraries maintains a collection of {{% resource_link "864b2a38-909f-4ba5-8623-0d9c1c0ae4c7" "online music resources" %}}. Among these resources, many available only to the MIT user community, two are particularly recommended for our class:
+MIT Libraries maintains a collection of [online music resources](http://libguides.mit.edu/music). Among these resources, many available only to the MIT user community, two are particularly recommended for our class:
 
-- {{% resource_link "42477faa-3cf8-457a-9a03-9317f2a8f241" "Database of Recorded American Music" %}} (DRAM)
-- {{% resource_link "8556c3e8-9d04-4730-ba32-71ee6059a661" "Naxos Music Library" %}}
+- [Database of Recorded American Music](http://www.dramonline.org/) (DRAM)
+- [Naxos Music Library](http://naxosmusiclibrary.com/)
 
 You may also, of course, use the listening resources of the Lewis Music Library. Here you will frequently have the great advantage of also being able to find a score to follow. The following list is a starting point, but you need not limit yourself to it:
 
@@ -195,10 +195,10 @@ You may also, of course, use the listening resources of the Lewis Music Library.
 
 In addition to your journal, you are required to attend a minimum of 3 concerts of contemporary music during the semester. Hand in a short concert report, similar to the journal, within about a week after the concert. Some particular concerts to look out for include:
 
-{{% resource_link "86d0cf7a-8979-457f-a58d-4150528ef146" "Ditson Festival of Contemporary Music" %}}, September 18-21, 2008.
+[Ditson Festival of Contemporary Music](http://www.bmop.org/season-tickets/ditson-festival-contemporary-music), September 18-21, 2008.
 
-{{% resource_link "45f74401-bd19-4f8c-978c-38ba9b3b2981" "Boston Musica Viva" %}}, October 4 and November 14, 2008 @ Tsai Performance Center.
+[Boston Musica Viva](http://www.bmv.org/), October 4 and November 14, 2008 @ Tsai Performance Center.
 
-{{% resource_link "154e79d4-f788-4a3e-bdd0-f289e4c230fe" "Firebird Ensemble" %}}, October 6, 2008 @ Longy School of Music.
+[Firebird Ensemble](https://www.bmop.org/explore-bmop/musicians/firebird-ensemble), October 6, 2008 @ Longy School of Music.
 
-{{% resource_link "223c464f-9a83-4b67-903f-708b1559ff2f" "Dinosaur Annex" %}}, October 14, 2008 @ First Church in Boston.
+[Dinosaur Annex](http://www.dinosaurannex.org/), October 14, 2008 @ First Church in Boston.
